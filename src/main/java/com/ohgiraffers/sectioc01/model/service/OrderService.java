@@ -5,9 +5,6 @@ import com.ohgiraffers.sectioc01.model.dto.CategoryDTO;
 import com.ohgiraffers.sectioc01.model.dto.MenuDTO;
 import com.ohgiraffers.sectioc01.model.dto.OrderDTO;
 import com.ohgiraffers.sectioc01.model.dto.OrderMenuDTO;
-import com.ohgiraffers.sectioc01.view.OrderMenu;
-
-import java.awt.*;
 import java.sql.Connection;
 import java.util.List;
 
